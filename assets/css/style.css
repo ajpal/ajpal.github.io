@@ -14,6 +14,10 @@ h2 {
   font-weight: bold;
 }
 
+td {
+  padding-bottom: 10px;
+}
+
 /* Below this line is just copied */
 
 body,
