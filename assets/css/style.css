@@ -1,5 +1,9 @@
-h2 {
+h2 { 
   color: #679186;
+}
+h3 {
+  color: #679186;
+  font-weight: bold;
 }
 #headshot {
   margin: auto;
@@ -11,7 +15,14 @@ h2 {
   width: 25%;
 }
 .paper-title {
-  font-weight: bold;
+  font-style: italic;
+}
+
+.author {
+  text-decoration: underline;
+}
+.TA {
+  margin-bottom: 30px;
 }
 
 td {
@@ -178,7 +189,6 @@ pre > code {
   vertical-align: text-bottom;
 }
 table {
-  margin-bottom: 30px;
   width: 100%;
   text-align: left;
   color: #3f3f3f;
