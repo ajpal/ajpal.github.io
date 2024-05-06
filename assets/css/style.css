@@ -8,6 +8,7 @@ h3 {
 #headshot {
   margin: auto;
   display: block;
+  height: 400px;
 }
 .date {
   vertical-align: top;
