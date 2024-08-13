@@ -212,6 +212,14 @@ table {
   line-height: 54px;
   position: relative;
 }
+
+.site-footer {
+  border-bottom: 5px solid #424242;
+  border-top: 1px solid #e8e8e8;
+  padding: 20px 0px;
+  position: relative;
+}
+
 .site-title {
   font-size: 26px;
   font-weight: 300;
@@ -301,10 +309,6 @@ table {
   .site-nav .page-link:not(:last-child) {
     margin-right: 20px;
   }
-}
-.site-footer {
-  border-top: 1px solid #e8e8e8;
-  padding: 30px 0;
 }
 .footer-heading {
   font-size: 18px;
