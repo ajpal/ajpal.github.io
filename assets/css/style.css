@@ -24,6 +24,10 @@ h3 {
   font-style: italic;
 }
 
+.emph {
+  font-weight: bold;
+}
+
 .role {
   font-style: italic;
 }
@@ -37,6 +41,7 @@ h3 {
 
 td {
   padding-bottom: 10px;
+  vertical-align: top;
 }
 
 /* Below this line is just copied */
